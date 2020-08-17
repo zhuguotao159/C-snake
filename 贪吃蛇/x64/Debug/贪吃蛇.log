@@ -1,0 +1,7 @@
+﻿  Snake.c
+e:\vs2019\project1\贪吃蛇\snake.c(96): warning C4087: “getchar”: 用“void”参数列表声明
+e:\vs2019\project1\贪吃蛇\snake.c(98): warning C4013: “ss”未定义；假设外部返回 int
+e:\vs2019\project1\贪吃蛇\snake.c(102): warning C4098: “PlayGame”:“void”函数返回值
+e:\vs2019\project1\贪吃蛇\snake.c(154): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\vs2019\project1\贪吃蛇\snake.c(171): warning C4087: “getchar”: 用“void”参数列表声明
+  贪吃蛇.vcxproj -> E:\VS2019\Project1\x64\Debug\贪吃蛇.exe
